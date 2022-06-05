@@ -1,0 +1,39 @@
+article{
+    font-family: arial;
+    text-align: justify;
+    color: gray;
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+ 
+blockquote{
+    margin-left: 0px;
+}
+
+.tituloDeArticulo{
+    text-align: center;
+    color: #434343;
+    font-size: 100px;
+    margin-top: 20px; 
+}
+
+.subTitulo1{
+    text-align: justify;
+    color: #454545;
+    font-size: 50px;
+    padding-left: 20px;
+}
+
+.subTitulo2{
+    color: #454545;
+    font-size: 50px;
+    line-height: 0px;
+    margin-top: 40px;
+    margin-bottom: 50px; 
+}
+
+.segmentoOscuro{
+    color:black;
+    font-size: 30px;
+}
